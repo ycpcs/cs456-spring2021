@@ -17,7 +17,6 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Feb 2   | Introduction        | *Four Ethical Issues of the Information Age*, Richard O. Mason (MIS Quarterly - 3/86)  |
 
 
-
 <!--
 > Aug 27  | Profession          | *Computing Is a Profession*, Andrew A. Chien (ACM - 10/17) <br /> *ACM Code of Ethics: A Guide for Positive Action*, Don Gotterbarn, Amy Bruckman, Catherine Flick, Keith Miller, Marty J. Wolf (ACM - 1/18) <br /> [The Pledge of The Computing Professional](http://pledge-of-the-computing-professional.org/home-page/the-oath) |
 > Sep 1   | Responsibility      | *Toward Algorithmic Transparency and Accountability*, Simson Garfinkel, Jeanna Matthews, Stuart S. Shapiro, Jonathan M. Smith (ACM - 9/17) <br /> *Assuring Software Quality By Preventing Neglect*, Robin K. Hill (ACM - 9/17) <br /> *Tony's Law*, Dror G. Feitelson (ACM - 2/19) <br /> *Should AI Technology Be Regulated? Yes, and Here's How*, Oren Etzioni (ACM - 12/18) |

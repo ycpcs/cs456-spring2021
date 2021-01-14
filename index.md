@@ -13,8 +13,8 @@ Welcome to the website for CS 456, Social and Professional Issues in Computing, 
 
 * [Schedule](schedule/index.html)
 * [Resources](resources.html)
-* [Syllabus](syllabus.html)
 * [Final Report](finalreport.html)
+* [Syllabus](syllabus.html)
 
 ## News
 * **Feb 2** - Welcome back!
