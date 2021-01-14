@@ -1,0 +1,4 @@
+coursename: "CS 456"
+baseurl: "/cs456-spring2021"
+markdown: kramdown
+highlighter: rouge
