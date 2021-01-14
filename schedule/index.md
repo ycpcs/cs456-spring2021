@@ -1,0 +1,48 @@
+---
+layout: default
+title: "CS456 Course Schedule"
+---
+
+This page provides a tentative schedule for the course.
+
+All reading materials can be accessed via [Schmidt Library](http://library.ycp.edu/home).
+
+-   For articles in **IEEE Computer**, select *Subject Guides*, *Engineering*, and *IEEE Xplore*.
+
+-   For articles in **Communications of the ACM** and other journals, select *Articles* from the side bar and use *Academic Search Complete*.
+
+
+>  Date   |      Topic          |                                    Reading                                             |
+> ------- | ------------------  | -------------------------------------------------------------------------------------- |
+> Feb 2   | Introduction        | *Four Ethical Issues of the Information Age*, Richard O. Mason (MIS Quarterly - 3/86)  |
+
+
+
+<!--
+> Aug 27  | Profession          | *Computing Is a Profession*, Andrew A. Chien (ACM - 10/17) <br /> *ACM Code of Ethics: A Guide for Positive Action*, Don Gotterbarn, Amy Bruckman, Catherine Flick, Keith Miller, Marty J. Wolf (ACM - 1/18) <br /> [The Pledge of The Computing Professional](http://pledge-of-the-computing-professional.org/home-page/the-oath) |
+> Sep 1   | Responsibility      | *Toward Algorithmic Transparency and Accountability*, Simson Garfinkel, Jeanna Matthews, Stuart S. Shapiro, Jonathan M. Smith (ACM - 9/17) <br /> *Assuring Software Quality By Preventing Neglect*, Robin K. Hill (ACM - 9/17) <br /> *Tony's Law*, Dror G. Feitelson (ACM - 2/19) <br /> *Should AI Technology Be Regulated? Yes, and Here's How*, Oren Etzioni (ACM - 12/18) |
+> Sep 3   | IP - Copyrights     | *Who Owns the Social Web?*, Catherine C. Marshall, Frank M. Shipman (ACM - 5/17) <br /> *The EU’s Controversial Digital Single Market Directive*, Pamela Samuelson (ACM - 11/18) <br /> *Questioning a New Intellectual Property Right for Press Publishers*, Pamela Samuelson (ACM - 3/19) |
+> Sep 8   | IP - Patents        | *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) <br /> *Disgorging Profits in Design Patent Cases*, Pamela Samuelson (ACM - 11/17) <br /> *Do Patent Commons and Standards-Setting Organizations Help Navigate Patent Thickets?*, Wen Wen and Chris Forman (ACM - 5/16) |
+> Sep 10  | **EXAM I PART I Discussion**   |  | 
+> Sep 15  | Privacy - I         | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy is Dead, Long Live Privacy*, Jean-Pierre Hubaux and Ari Juels (ACM - 6/16) <br /> *When Does Law Enforcement's Demand to Read Your Data Become a Demand to Read Your Mind?*, Andrew Conway and Peter Eckersley (ACM - 9/17) | 
+> Sep 17  | Privacy - II        | *Weighing the Impact of GDPR*, Samuel Greengard (ACM - 11/18) <br /> *More Encryption Means Less Privacy*, Poul-Henning Kamp (ACM - 4/16) <br /> *Welcome to the Singularity*, David Allen Batchelor (ACM - 2/18) | 
+> Sep 22  | Security - I        | *Cyber Insecurity and Cyber Libertarianism*, Moshe Y. Vardi (ACM - 5/17) <br /> *Deep Insecurities: The Internet of Things Shifts Technology Risk*, Samuel Greengard (ACM - 5/19)|
+> Sep 24  | Security - II       | *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15) **NOTE: This is the Dec 2015 article** <br /> *Security Assurance*, Steven B. Lipner (ACM - 11/15) <br /> *Encryption and Surveillance*, Joan Feigenbaum (ACM - 5/19) <br /> *IoT: The Internet of Terror*, George V. Neville-Neil (ACM - 10/17)|  
+> Sep 29  | Internet Free Speech | *Continuity and Change in Internet Law*, James Grimmelmann (ACM - 5/19) <br /> *A Response to Fake News as a Response to Citizens United*, Marshall W. Van Alstyne (ACM - 8/19) |
+> Oct 1   | Individual Impact    | *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Potential ‘Dark Sides’ of Leisure Technology Use in Youth*, Ofir Turel (ACM - 3/19)|
+> Oct 6   | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
+> Oct 8   | **EXAM I PART 2 Discussion** | |
+> Oct 13  | Kate Kennelly <br> *Smart Doorbell Surveillance* | *Your Visitors Deserve to Know They're on Camera*, Thorin Klosowski (NY Times, 10/7/19) <br /> *The doorbells have eyes: A privacy battle brews over home security cameras*, Geoffrey Fowler (Wash Post 2/3/19)|
+> Oct 15  | Earl Kennedy <br> *Medical Device Security* | *security and privacy for Implantable medical Devices*, David Halperin, Tadayoshi Kohno, Thomas S. Heydt-Benjamin, Kevin Fu, and William H. Maisel (IEEE - 1-3/08) <br> *Security Tradeoffs in Cyber Physical Systems: A Case Study Survey on Implantable Medical Devices*, Riham Altawy and Amr M. Youssef (IEEE - 1/16) <br> *Brain-Computer Interface applications: Security and privacy challenges*, QianQian Li, Ding Ding, and Mauro Conti (IEEE - 9/15)|
+> Oct 20  | Andrew Georgiou <br> *Youtube Child Privacy and COPPA* | [Industry Toolkit: CHILDREN’S ONLINE PRIVACY AND FREEDOM OF EXPRESSION](https://www.unicef.org/csr/files/UNICEF_Childrens_Online_Privacy_and_Freedom_of_Expression(1).pdf) <br /> [YouTube overhauls advertising, data collection on kids content](https://www.washingtonpost.com/technology/2020/01/06/youtube-overhauls-advertising-data-collection-kids-content/) <br /> [YouTube channel owners: Is your content directed to children?](https://www.ftc.gov/news-events/blogs/business-blog/2019/11/youtube-channel-owners-your-content-directed-children)|
+> Oct 22  | Alex Louderback <br> *Amazon Anti-competitive Practices* | [Antitrust Laws and Silicon Valley: Why Breaking Up Big Tech is a Nuanced Issue](https://medium.com/swlh/antitrust-laws-and-silicon-valley-why-breaking-up-big-tech-is-a-nuanced-issue-1eddd8a008a2) <br /> [Emails detail Amazon’s plan to crush a startup rival with price cuts](https://arstechnica.com/tech-policy/2020/07/emails-detail-amazons-plan-to-crush-a-startup-rival-with-price-cuts/) <br /> [Amazon’s Antitrust Paradox (Abstract)](https://www.yalelawjournal.org/note/amazons-antitrust-paradox)|
+> Oct 27  | Vince Maresca <br> *Amazon Echo Privacy* | [Alexa, did you get that? Determining the evidentiary value of data stored by the Amazon® Echo](https://www.sciencedirect.com/science/article/pii/S1742287617301809?via%3Dihub) <br /> [Amazon Alexa: 'Pre-wakeword' patent application suggests plans to process more of your speech](https://www.theregister.com/2019/06/05/amazon_alexa_prewakeword_patent_application_show_plans_to_process_more_of_your_speech/) <br /> [Federal Lawsuit Charges Amazon’s Alexa Violates Children’s Privacy](https://www.claimsjournal.com/news/national/2019/06/17/291497.htm)|
+> Oct 29  | Zachary Ronayne <br> *Tik Tok Data Mining* | [TikTok and privacy: What's the problem? Perhaps the video-sharing app gathers too much data](https://www.usatoday.com/story/tech/2020/08/06/tiktok-any-worse-privacy-and-data-mining-than-facebook/3311726001/) <br /> [Is it time to delete TikTok? A guide to the rumors and the real privacy risks.](https://www.washingtonpost.com/technology/2020/07/13/tiktok-privacy/)|
+> Nov 3   | **SPARTAN DAY!** | |
+> Nov 5   | Dakota Hilbert <br> *Blockchain and Privacy* | [Privacy, blockchain and the Internet of Things – Can we keep control of our own identities?](https://unisa.edu.au/Media-Centre/Releases/2020/privacy-blockchain-and-the-internet-of-things--can-we-keep-control-of-our-own-identities/) <br /> [Blockchain may break EU privacy law—and it could get messy](https://modernconsensus.com/regulation/blockchain-may-break-eu-privacy-law-and-it-could-get-messy/)|
+> Nov 10  | Quintin Herb <br> *Net Neutrality* | [The pros and cons of net neutrality](https://www.itpro.co.uk/strategy/28115/the-pros-and-cons-of-net-neutrality) <br /> [WHAT IS NET NEUTRALITY?](https://www.aclu.org/issues/free-speech/internet-speech/what-net-neutrality) <br /> [The net neutrality fanatics were wrong](https://financialpost.com/opinion/the-net-neutrality-fanatics-were-wrong) |
+> Nov 12  | Cayden Reynolds <br> *Facial Recognition and Law Enforcement* | [Facial Recognition: Dawn of Dystopia, or Just the New Fingerprint?](https://www.nytimes.com/2019/05/18/us/facial-recognition-police.html) <br /> [How the Police Use Facial Recognition, and Where It Falls Short](https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.html) |
+> Nov 17  | Josh Gross <br> *Quantum Computing* | [Quantum Computing: A Bubble Ready to Burst?](https://www.pcmag.com/news/quantum-computing-a-bubble-ready-to-burst) <br /> [Molecular computing: DNA-inspired advanced computers](https://www.thehindu.com/sci-tech/technology/molecular-computing-dna-inspired-advanced-computers/article32892951.ece) <br /> [ARTIFICIAL GENERAL INTELLIGENCE: A TECHNOLOGY WITH MORE CONS THAN PROS](https://www.analyticsinsight.net/artificial-general-intelligence-a-technology-with-more-cons-than-pros/) <br /> [Elon Musk's Neuralink Challenged by Key Ethical Questions Outlined by Researchers](https://www.techtimes.com/articles/254067/20201111/elon-musks-neuralink-challenged-key-ethical-questions-outlined-researchers.htm)|
+> Nov 19  | **EXAM 2 Discussion** | |
+> Nov 24  | Prof. Hake <br /> *Life, the Universe, and Everything* | |
+-->
