@@ -15,6 +15,8 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 >  Date   |      Topic          |                                    Reading                                             |
 > ------- | ------------------  | -------------------------------------------------------------------------------------- |
 > Feb 2   | Introduction        | *Four Ethical Issues of the Information Age*, Richard O. Mason (MIS Quarterly - 3/86)  |
+> Feb 4   | Profession          | *Computing Is a Profession*, Andrew A. Chien (ACM - 10/17) <br /> *Advancing Computing as a Science and Profession - But to What End?*, Moshe Y. Vardi (ACM - 3/20) <br /> *ACM Code of Ethics: A Guide for Positive Action*, Don Gotterbarn, Amy Bruckman, Catherine Flick, Keith Miller, Marty J. Wolf (ACM - 1/18) <br /> [The Pledge of The Computing Professional](http://pledge-of-the-computing-professional.org/home-page/the-oath) |
+> Feb 9   | Responsibility      | *Tony's Law*, Dror G. Feitelson (ACM - 2/19) <br /> *Are You Sure Your Software Will Not Kill Anyone?*, Nancy Leveson (ACM - 2/20) <br /> *When Technology Goes Awry*, Cal Newport (ACM - 5/20) |
 
 
 <!--
