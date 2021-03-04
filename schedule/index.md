@@ -24,6 +24,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Feb 25  | Privacy - II        | *A Recent Renaissance in Privacy Law*, Margot Kaminski (ACM - 9/20) <br /> *Tracking Shoppers*, Keith Kirkpatrick (ACM - 2/20) <br /> *Welcome to the Singularity*, David Allen Batchelor (ACM - 2/18) | 
 > Mar 2   | Security - I        | *Cyber Insecurity and Cyber Libertarianism*, Moshe Y. Vardi (ACM - 5/17) <br /> *IoT: The Internet of Terror*, George V. Neville-Neil (ACM - 10/17) <br /> *Deep Insecurities: The Internet of Things Shifts Technology Risk*, Samuel Greengard (ACM - 5/19) <br /> *Encryption and Surveillance*, Joan Feigenbaum (ACM - 5/19)|
 > Mar 4   | Security - II       | *Why is Cybersecurity Not a Human-Scale Problem Anymore?*, Gaurav Banga (ACM - 4/20) <br /> *Secure Development Tools and Techniques Need More Research That Will Increase Their Impact and Effectiveness in Practice*, Adam Shostack and Mary Ellen Zurko (ACM - 5/20) <br /> *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15) **NOTE: This is the Dec 2015 article** <br />  |  
+> Mar 9   | Internet Free Speech | *Four Internets*, Kieron O'Hara and Wendy Hall (ACM - 3/20) <br /> *Continuity and Change in Internet Law*, James Grimmelmann (ACM - 5/19) <br /> *Proposal: A Market for Truth to Address False Ads on Social Media*, Marshal W. Van Alstyne (ACM - 7/20) <br /> *Content Moderation Modulation*, Kate Klonick (ACM - 1/21) |
 
 
 <!--
