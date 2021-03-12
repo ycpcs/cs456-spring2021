@@ -27,6 +27,9 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 9   | Internet Free Speech | *Four Internets*, Kieron O'Hara and Wendy Hall (ACM - 3/20) <br /> *Continuity and Change in Internet Law*, James Grimmelmann (ACM - 5/19) <br /> *Proposal: A Market for Truth to Address False Ads on Social Media*, Marshal W. Van Alstyne (ACM - 7/20) <br /> *Content Moderation Modulation*, Kate Klonick (ACM - 1/21) |
 > Mar 11  | Individual Impact    | *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Are We Addicted to Technology?*, Logan Kugler (ACM - 8/20) <br /> *Excessive Use of Technology: Can Tech Providers be the Culprits?*, Ofir Turel and Christopher Ferguson (ACM - 1/21)|
 > Mar 16  | Prof. Hake <br /> *Don't Buy a House!* | |
+> Mar 18  | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Consumers vs. Citizens in Democracy's Public Sphere*, Allison Stanger (ACM - 7/20) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
+> Mar 23  | **EXAM I PART 2 Discussion** | |
+> Mar 25  | **EXAM I PART 2 Writeup** | |
 
 
 <!--
