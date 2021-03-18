@@ -30,6 +30,18 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 18  | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Consumers vs. Citizens in Democracy's Public Sphere*, Allison Stanger (ACM - 7/20) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
 > Mar 23  | **EXAM I PART 2 Discussion** | |
 > Mar 25  | **EXAM I PART 2 Writeup** | |
+> Mar 30  | Tom McAdams <br> Dan Palmieri <br /> *Video Game Industry* | |
+> Apr 1   | Rob Doster <br> Rob Politi <br /> *Teaching Technology and Children* | |
+> Apr 6   | William Batchelor <br> Lucas Gartrell <br /> *Social Media Influence and Addiction* | |
+> Apr 8   | Anthony Beddia <br> Adrian Castro <br /> *Collecting Data without Consent and TicTok* | |
+> Apr 13  | Tim Jefferson <br> Patrick Nelson <br /> *Misinformation on Social Median and Deepfakes* | |
+> Apr 15  | Dennis Chism <br> le Quient Lewis <br /> *Discriminatory AI* | |
+> Apr 20  | Austin Canzano <br> Brooke Tingley <br /> *Facial Recognition Ethics and Apple's Security Policy* | |
+> Apr 22  | Collin Brandt <br> Jonathan Steck <br /> *Internet Bill of Rights and Snowden Scandal* | |
+> Apr 27  | **EXAM 2 Discussion** | |
+> Apr 29  | **EXAM 2 Writeup** | |
+> May 4   | **Final Paper workday** | |
+> May 6   | **Final Paper workday** | |
 
 
 <!--
