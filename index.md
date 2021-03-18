@@ -20,6 +20,8 @@ Welcome to the website for CS 456, Social and Professional Issues in Computing, 
 * **Feb 2** - Welcome back!
 * **Feb 18** - Exam 1 Part 1 Discussion
 * **Feb 22 - Exam 1 Part 1 Due** upload a .pdf to Canvas by 11:59pm
+* **Mar 23** - Exam 1 Part 2 Discussion
+* **Mar 26 - Exam 1 Part 2 Due** upload a .pdf to Canvas by 11:59pm
 
 <!--
 * **Sept 10** - Exam 1 Part 1 Discussion
