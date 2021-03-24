@@ -30,7 +30,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 18  | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Consumers vs. Citizens in Democracy's Public Sphere*, Allison Stanger (ACM - 7/20) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
 > Mar 23  | **EXAM I PART 2 Discussion** | |
 > Mar 25  | **EXAM I PART 2 Writeup** | |
-> Mar 30  | Tom McAdams <br> Dan Palmieri <br /> *Video Game Industry* | |
+> Mar 30  | Tom McAdams <br> Dan Palmieri <br /> *Video Game Industry* | [Cyberpunk 2077 Was Supposed to Be the Biggest Video Game of the Year. What Happened?](https://www.nytimes.com/2020/12/19/style/cyberpunk-2077-video-game-disaster.html) <br /> [Making games for a living means being in constant fear of losing your job](https://www.polygon.com/2019/3/5/18233699/game-developer-layoffs-unions-katie-chironis) <br /> [The 10 greatest disasters in video games history – from Xbone to E.T.](https://metro.co.uk/2013/06/21/the-10-greatest-disasters-in-video-games-history-from-xbone-to-e-t-3850551/)|
 > Apr 1   | Rob Doster <br> Rob Politi <br /> *Teaching Technology and Children* | |
 > Apr 6   | William Batchelor <br> Lucas Gartrell <br /> *Social Media Influence and Addiction* | |
 > Apr 8   | Anthony Beddia <br> Adrian Castro <br /> *Collecting Data without Consent and TicTok* | |
