@@ -31,7 +31,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 23  | **EXAM I PART 2 Discussion** | |
 > Mar 25  | **EXAM I PART 2 Writeup** | |
 > Mar 30  | Tom McAdams <br> Dan Palmieri <br /> *Video Game Industry* | [Cyberpunk 2077 Was Supposed to Be the Biggest Video Game of the Year. What Happened?](https://www.nytimes.com/2020/12/19/style/cyberpunk-2077-video-game-disaster.html) <br /> [Making games for a living means being in constant fear of losing your job](https://www.polygon.com/2019/3/5/18233699/game-developer-layoffs-unions-katie-chironis) <br /> [The 10 greatest disasters in video games history – from Xbone to E.T.](https://metro.co.uk/2013/06/21/the-10-greatest-disasters-in-video-games-history-from-xbone-to-e-t-3850551/)|
-> Apr 1   | Rob Doster <br> Rob Politi <br /> *Teaching Technology and Children* | |
+> Apr 1   | Rob Doster <br> Rob Politi <br /> *Teaching Technology and Children* | [Guiding Principles for Use of Technology with Early Learners](https://tech.ed.gov/earlylearning/principles/) <br /> [Screen time and young children: Promoting health and development in a digital world](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5823000/pdf/pxx123.pdf) <br /> *Toddlers and technology: can computers and smart devices bridge the education gap?*, Spencer Sutherland (Regional Business News - 8/14) |
 > Apr 6   | William Batchelor <br> Lucas Gartrell <br /> *Social Media Influence and Addiction* | |
 > Apr 8   | Anthony Beddia <br> Adrian Castro <br /> *Collecting Data without Consent and TicTok* | |
 > Apr 13  | Tim Jefferson <br> Patrick Nelson <br /> *Misinformation on Social Median and Deepfakes* | |
